@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.0.1 — 2026-10-07
+
+### Workshop artwork
+
+- Reworked the original landscape poster into a square cover using outpainting to extend the workshop scene.
+- Moved the French translation ribbon to the square cover's top-right edges.
+- Updated the Workshop preview to fill the entire square without padding.
+
 ## 1.0.0 — 2026-10-07
 
 ### Initial release

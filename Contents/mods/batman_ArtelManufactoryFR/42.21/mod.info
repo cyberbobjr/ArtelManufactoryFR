@@ -4,5 +4,5 @@ description=Traduction française d'Artel Manufactory : objets, recettes, interf
 require=\ArtelManufactory
 loadModAfter=ArtelManufactory
 versionMin=42.21
-modversion=1.0.0
+modversion=1.0.1
 poster=poster.png

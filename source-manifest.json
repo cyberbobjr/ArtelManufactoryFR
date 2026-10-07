@@ -2,7 +2,7 @@
   "upstream_workshop_id": "3794133594",
   "upstream_mod_id": "ArtelManufactory",
   "upstream_modversion": "0.2.0",
-  "translation_version": "1.0.0",
+  "translation_version": "1.0.1",
   "date": "2026-10-07",
   "source_sha256": {
     "ContextMenu.json": "302caefd66516b108a8a1036d712886331e12c402dcae9aac047fd9fa2205eed",

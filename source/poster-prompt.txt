@@ -2,4 +2,4 @@ Tool: built-in image_gen
 Reference 1: Artel Manufactory original poster (Workshop 3794133594, read-only).
 Reference 2: ExtractionModeFR poster, translation ribbon style.
 
-Edit image 1, Artel Manufactory original poster. Image 2 is only a reference for the French translation corner ribbon. Keep image 1 artwork, colors, original title ARTEL MANUFACTORY and subtitle PROJECT ZOMBOID – CRAFTING MOD exactly unchanged. Add ONLY a diagonal French tricolor corner ribbon at top right in precisely the style of image 2: descending diagonally from upper center-right to right upper-middle, blue outer upper stripe, white wide center stripe, red lower stripe, bold condensed black text exactly TRADUCTION FR. Ribbon must occupy the corner only and must not obscure the original main title. Keep original landscape aspect ratio and original image composition; do not crop, do not redraw the scene, no new text other than TRADUCTION FR. Professional clean edges, subtle ribbon shadow. Output finished poster.
+undefined
