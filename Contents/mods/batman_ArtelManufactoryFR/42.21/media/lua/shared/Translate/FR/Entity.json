@@ -1,0 +1,17 @@
+{
+    "EC_Artel_Bioreactor": "Bioréacteur",
+    "EC_Artel_Cellar": "Cave à légumes",
+    "EC_Artel_ChemTable": "Établi de chimie",
+    "EC_Artel_DryingRack": "Claie de séchage",
+    "EC_Artel_ElectricDryer": "Séchoir électrique",
+    "EC_Artel_FactorySealer": "Sertisseuse industrielle",
+    "EC_Artel_BarExtruder": "Extrudeuse industrielle de barres",
+    "EC_Artel_QuantumBase": "Stockage quantique",
+    "EC_Artel_CharcoalRetort": "Four à charbon de bois",
+    "EC_Artel_SteamFrame": "Châssis de générateur à vapeur",
+    "EC_Artel_Sublimator": "Lyophilisateur",
+    "EC_Artel_TradePost": "Comptoir commercial radio",
+    "EC_Artel_WellPipe": "Tube de cuvelage de puits",
+    "EC_Artel_WellHand": "Pompe à eau manuelle",
+    "EC_Artel_WellMotor": "Pompe à eau motorisée"
+}

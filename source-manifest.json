@@ -1,0 +1,20 @@
+{
+  "upstream_workshop_id": "3794133594",
+  "upstream_mod_id": "ArtelManufactory",
+  "upstream_modversion": "0.2.0",
+  "translation_version": "1.0.0",
+  "date": "2026-10-07",
+  "source_sha256": {
+    "ContextMenu.json": "302caefd66516b108a8a1036d712886331e12c402dcae9aac047fd9fa2205eed",
+    "Entity.json": "3a29a199ea3c0afe3b880d531e3d26099fd5de4b9e3749c900a292bace1b4bff",
+    "EvolvedRecipeName.json": "b8dee7dd3a7c7bc35c7ec7b046ccbfb5bd89a11973536ab06c58dbeadb637182",
+    "Farming.json": "93973c03abacba2a91024182f55cca18d419546aacae94b648e4896a70bfce93",
+    "Fluids.json": "180120a5b4a84aaf2ebbbb83ed4709fddefa9c74966a14e03c33a03f00911545",
+    "IG_UI.json": "d98f964c25f5e04770150cf45212dbe22627c2e8a75c7e9b8b160db8a97c0fb2",
+    "ItemName.json": "8cfd21486b0cf34085e7ddc99732f7c78649f8eadc5484d75e8d103c6cc32b1a",
+    "Moveables.json": "505f9d0d0874ac32d11a499c309d7cec16b2a67decc3cff01dfb8a5385ff9019",
+    "Recipes.json": "d2678047cec186c9c3f83370656751236a279302d0232a1541f83750a3b6f01f",
+    "Sandbox.json": "eb85da0ffd56229a41cfbe90b35edd251add2afbd8ec10f2e1c56bc3808f74fe",
+    "Tooltip.json": "ea84735e0f186c1cc1d557c2971a142306f5e43df0b53f0d39e4f978d65cb34a"
+  }
+}
