@@ -5,6 +5,8 @@ Module de traduction indépendant pour Project Zomboid **42.21**, réalisé à p
 - Mod d'origine : https://steamcommunity.com/sharedfiles/filedetails/?id=3794133594
 - Identifiant d'origine : `ArtelManufactory`.
 - Identifiant de traduction : `batman_ArtelManufactoryFR`.
+- Publication : https://steamcommunity.com/sharedfiles/filedetails/?id=3815128330
+- Dépôt GitHub privé : https://github.com/cyberbobjr/ArtelManufactoryFR
 
 ## Activation
 
@@ -29,4 +31,4 @@ Le dernier journal local indique `version=42.21.0`. Les références moteur cons
 
 **Aucun test en jeu n'a été effectué.** Après activation, contrôler un nom d'objet Artel, une recette, une infobulle, les options de bac à sable et le comptoir commercial. Vérifier l'absence de `JSON Error` dans `console.txt` et le rendu des textes dans les fenêtres.
 
-Ce projet est créé localement et n'a pas été publié sur Steam. Les textes de traduction restent dérivés du contenu de l'auteur d'Artel Manufactory ; aucune autorisation de redistribution de son code ou de ses images n'est présumée.
+La version 1.0.0 est publiée sur le Workshop Steam depuis le 7 octobre 2026. Artel Manufactory figure parmi les éléments requis sur la page. Les textes et l'illustration de référence restent attribués à l'auteur du mod original ; le module ne redistribue pas son code de gameplay.

@@ -1,4 +1,5 @@
 version=1
+id=3815128330
 title=batman_Artel Manufactory - French Translation
 description=[h1]Artel Manufactory — French translation[/h1]
 description=French text translation for Artel Manufactory 0.2.0 on Project Zomboid Build 42.21: items, recipes, menus, machines, dialogues, tooltips and sandbox options.
