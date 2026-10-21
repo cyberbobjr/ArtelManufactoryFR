@@ -2,3 +2,8 @@
 Traduction française des textes d'Artel Manufactory 0.2.0 pour Project Zomboid Build 42.21 : objets, recettes, menus, machines, dialogues, infobulles et options de bac à sable.
 Nécessite [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3794133594]Artel Manufactory[/url]. Activez les deux mods, chargez la traduction après l'original et choisissez Français dans les options du jeu.
 Module de langue indépendant sans copie du code de gameplay du mod original.
+
+[h2]Discord[/h2]
+
+Questions, bugs ou idées ? Rejoignez le Discord :
+[url=https://discord.gg/QEsBya7hUA]https://discord.gg/QEsBya7hUA[/url]
